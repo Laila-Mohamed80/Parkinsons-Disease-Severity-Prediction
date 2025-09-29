@@ -18,11 +18,10 @@ Developed machine learning models to **predict Parkinson’s disease progression
 
 ---
 
-## Technologies
-- **Languages & Frameworks:** Python
-- **Libraries:** scikit-learn, pandas, NumPy, matplotlib/seaborn  
-- **ML Techniques:** Regression, Classification, Feature Engineering, Hyperparameter Tuning  
-
+## Technologies & Libraries
+- Languages: Python  
+- Key Libraries: pandas, NumPy, scikit-learn, matplotlib  
+- Other dependencies and libraries to be updated
 ---
 
 ## Getting Started
