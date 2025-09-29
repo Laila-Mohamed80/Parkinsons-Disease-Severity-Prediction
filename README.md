@@ -1,30 +1,4 @@
 # Parkinsons-Disease-Severity-Prediction
+**Team Project – Machine Learning | Regression & Classification**
 
-**Team Project – Machine Learning | Regression & Classification | Feature Engineering**  
-**Duration:** 04/2025 – 05/2025
-
----
-
-## Project Overview
-Developed machine learning models to **predict Parkinson’s disease progression (UPDRS score)** and classify disease presence. The project demonstrates a complete ML pipeline, from data preprocessing to model evaluation and interpretation.
-
----
-
-## Features
-- Performed **data preprocessing, feature engineering**, and categorical encoding.  
-- Applied **statistical feature selection** (ANOVA, Point-biserial) to identify top predictors.  
-- Optimized multiple models (**Linear/Ridge/Lasso Regression, Random Forest, SVM, Gradient Boosting**) via hyperparameter tuning.  
-- Achieved **95% classification accuracy** with Gradient Boosting.  
-
----
-
-## Technologies & Libraries
-- Languages: Python  
-- Key Libraries: pandas, NumPy, scikit-learn, matplotlib  
-- Other dependencies and libraries to be updated
----
-
-## Getting Started
-1. Clone the repository:
-```bash
-git clone https://github.com/username/Parkinsons-Disease-Prediction.git
+Developed machine learning models to predict Parkinson’s disease progression (UPDRS score) and classify disease presence. The project demonstrates the full ML pipeline from data preprocessing and feature engineering to model evaluation and interpretation.
